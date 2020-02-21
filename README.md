@@ -10,8 +10,8 @@ pip list
 md file name
 
 
-#create v-env
+#create v-env:
 python -m venv enviroment_name
 
-#activate v-env
+#activate v-env:
 enviroment_name\Scripts\activate.bat
